@@ -1,6 +1,6 @@
 ### Hi, I'm Ernie! 👋
 
-- 🔭 I’m currently a Lead Educator & Team Lead at BrainStation Miami's web development program, formerly known as Wyncode. 
+- 🔭 I’m currently a Lead Educator & Team Lead at BrainStation Miami, formerly known as Wyncode. 
 
 <!--
 **ErnieAtLYD/ErnieAtLYD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
