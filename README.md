@@ -1,6 +1,6 @@
 ### Hi, I'm Ernie! 👋
 
-- 🔭 I’m currently a Lead Educator & Team Lead at BrainStation Miami, formerly known as Wyncode. 
+- 🔭 I’m currently an Enterprise Simulator Leader for Strategio. 
 
 <!--
 **ErnieAtLYD/ErnieAtLYD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
