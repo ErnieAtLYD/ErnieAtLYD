@@ -1,6 +1,6 @@
 ### Hi, I'm Ernie! 👋
 
-Full-stack dev, tech instructor, writer of personal and non-personal things and all-around web tinkerer. Obsessed with AI, PKMs, clean code, and finding creative ways to solve problems—currently based in the Bay Area.
+Full-stack dev, tech instructor, writer of personal and non-personal things, and all-around web tinkerer. Obsessed with AI, PKMs, clean code, and finding creative ways to solve problems—currently based in the Bay Area.
 
 <!--
 **ErnieAtLYD/ErnieAtLYD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
